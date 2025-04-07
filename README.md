@@ -11,3 +11,5 @@ Various Adversarial Attacks and Defenses were carried out and their impact was a
 - Run task_2.ipynb to evaluate the models using various strategies for adversarial defense.
 
 - More details about the adversarial attacks used and their impact and the adversarial defenses used and their impact is listed in reports.
+
+- Some pre-trained models and plots of the results are added in respective directories.
